@@ -3,10 +3,10 @@
 </h1>
 
 <p align="center">
-    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/victorguirra/fylo">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/victorguirra/fylo">
-    <img alt="Repository size" src="https://img.shields.io/github/repo-size/victorguirra/fylo">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/victorguirra/fylo">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/victorguirra/getkcal">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/victorguirra/getkcal">
+    <img alt="Repository size" src="https://img.shields.io/github/repo-size/victorguirra/getkcal">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/victorguirra/getkcal">
 </p>
 
 ## 📔 Sobre
