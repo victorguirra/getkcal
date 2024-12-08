@@ -16,37 +16,7 @@ Após preencher o formulário e clicar no botão, o programa retorna para ele al
 
 - HTML
 - CSS
-- JAVASCRIPT
-
----
-
-## 📂 Acessando o Projeto
-
-Para ter acesso ao projeto, execute os seguintes comandos em seu terminal:
-
-<h3>
-    Clonando o Repositório:
-</h3>
-
-```bash
-    $ git clone https://github.com/victorguirra/Getkcals.git
-```
-
-<h3>
-    Entrando no Projeto:
-</h3>
-
-```bash
-    $ cd Getkcals
-```
-
-<h3>
-    Abra-o em sua IDE (no meu caso o VS Code)
-</h3>
-
-```bash
-    $ code .
-```
+- JavaScript
 --- 
 
 <h2 align="center">
